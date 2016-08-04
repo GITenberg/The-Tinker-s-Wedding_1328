@@ -1,0 +1,28 @@
+_repo: The-Tinker-s-Wedding_1328
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Synge, J. M. (John Millington)
+    aliases:
+    - Synge, John Millington
+    - Synge, Edmund John Millington
+    birthdate: 1871
+    deathdate: 1909
+    gutenberg_agent_id: '504'
+    url: http://www.gutenberg.org/2009/agents/504
+    wikipedia: http://en.wikipedia.org/wiki/John_Millington_Synge
+description: ''
+gutenberg_issued: '1998-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1328'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Drama'
+- !lcc 'PR'
+- GITenberg
+title: The Tinker's Wedding
+url: http://www.gutenberg.org/ebooks/1328
